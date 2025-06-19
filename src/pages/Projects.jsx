@@ -5,7 +5,7 @@ const projects = [
     title: "SAG ERP (Real Estate)",
     description:
       "A full-featured real estate ERP platform built using Next.js and React. Implemented a modern UI, property dashboards, and bug-free workflows. Contributed to a 26% increase in usability.",
-      image: "sasystems.png",
+      image: "sasystems.PNG",
     link: "https://sasystems.solutions/",
     stack: ["React", "Next.js", "Tailwind", "Node.js"]
   },
@@ -13,7 +13,7 @@ const projects = [
     title: "Reserval (Flight Booking)",
     description:
       "A responsive flight booking platform that handles search, filter, and booking flows. Improved performance by 50% and integrated SEO with Next.js.",
-      image: "reserval.png",
+      image: "reserval.PNG",
     link: "https://www.reserval.com/airlines/saudi-arabian-airlines/SV",
     stack: ["Next.js", "Tailwind", "Node.js", "MongoDB"]
   },
@@ -21,7 +21,7 @@ const projects = [
     title: "Lightning Store",
     description:
       "An online light-ordering platform for businesses. Developed advanced product filters and checkout system using React & Tailwind CSS.",
-      image: "lightning.png",
+      image: "lightning.PNG",
     link: "https://lightingstores.com.sa/",
     stack: ["React", "Tailwind", "MongoDB", "Express"]
   },
@@ -29,7 +29,7 @@ const projects = [
     title: "Blackbooking (Backend Project)",
     description:
       "Hotel booking system backend using Node.js and MySQL. Developed RESTful APIs, ensured secure authentication, and enabled admin-level management tools.",
-      image: "blackbooking.png",
+      image: "blackbooking.PNG",
     link: "https://www.blackbooking.org/",
     stack: ["Node.js", "Express", "MySQL"]
   }
