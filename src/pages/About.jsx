@@ -7,10 +7,11 @@ import ProfileCard from "../components/ProfileCard";
 const About = () => {
   return (
     <div className="p-6 max-w-5xl mx-auto space-y-10">
-      <ProfileCard />
 
       <AboutIntro />
             <AboutStatement />
+            
+      <ProfileCard />
 
     </div>
   );

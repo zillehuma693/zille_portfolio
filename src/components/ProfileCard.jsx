@@ -12,25 +12,29 @@ const ProfileCard = () => {
       <h2 className="text-2xl font-bold text-gray-800 dark:text-white">Zillehuma</h2>
       <p className="text-gray-600 dark:text-gray-300">Frontend Developer | React & Next.js Enthusiast</p>
 
-      <div className="flex justify-center gap-4 text-xl text-indigo-600 dark:text-indigo-400">
-        <a href="https://github.com/zillehuma693" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-        <a href="https://www.linkedin.com/in/zille-huma-4364051a4" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
-        <a href="mailto:zillehumasaif693@gmail.com"><FaEnvelope /></a>
-      </div>
- <a
-          href="/projects"
-          className="bg-white text-indigo-600 font-semibold px-6 py-3 rounded-full shadow-md hover:bg-gray-200 transition"
-        >
-          View My Projects
-        </a>
-      <a
-        href="/Zillehuma.pdf"
-        download
-        className="inline-block mt-3 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700"
-      >
-        Download CV
-      </a>
-    </div>
+<div className="flex justify-center gap-4 text-xl text-indigo-600 dark:text-indigo-400 mt-4">
+  <a href="https://github.com/zillehuma693" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+  <a href="https://www.linkedin.com/in/zille-huma-4364051a4" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+  <a href="mailto:zillehumasaif693@gmail.com"><FaEnvelope /></a>
+</div>
+
+{/* Button section */}
+<div className="flex justify-center flex-wrap gap-4 mt-4">
+  <a
+    href="/projects"
+    className="bg-white text-indigo-600 text-sm font-medium px-4 py-2 rounded-md shadow hover:bg-gray-200 transition"
+  >
+    View Projects
+  </a>
+  <a
+    href="/Zillehuma.pdf"
+    download
+    className="bg-indigo-600 text-white text-sm font-medium px-4 py-2 rounded-md hover:bg-indigo-700 transition"
+  >
+    Download Resume
+  </a>
+</div>
+</div>
   );
 };
 
