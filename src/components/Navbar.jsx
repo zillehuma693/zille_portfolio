@@ -5,8 +5,7 @@ function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <nav className="bg-white dark:bg-gray-900 shadow-md px-6 py-4">
-      <div className="flex justify-between items-center">
+<nav className="fixed top-0 left-0 w-full z-50 bg-white dark:bg-gray-900 shadow-md px-6 py-4">      <div className="flex justify-between items-center">
         <h1 className="text-xl font-bold text-blue-600">Zillehuma</h1>
 
         {/* Hamburger */}
