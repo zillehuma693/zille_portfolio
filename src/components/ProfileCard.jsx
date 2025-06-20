@@ -10,7 +10,7 @@ const ProfileCard = () => {
         className="w-32 h-32 rounded-full mx-auto border-4 border-indigo-500"
       />
       <h2 className="text-2xl font-bold text-gray-800 dark:text-white">Zillehuma</h2>
-      <p className="text-gray-600 dark:text-gray-300">Frontend Developer | React & Next.js Enthusiast</p>
+      <p className="text-gray-600 dark:text-gray-300">Software Engieener | React, Node.js & Next.js Enthusiast</p>
 
 <div className="flex justify-center gap-4 text-xl text-indigo-600 dark:text-indigo-400 mt-4">
   <a href="https://github.com/zillehuma693" target="_blank" rel="noopener noreferrer"><FaGithub /></a>

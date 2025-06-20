@@ -1,5 +1,3 @@
-// src/pages/Experience.jsx
-
 const workExperience = [
   {
     role: "Frontend Developer",
@@ -23,13 +21,13 @@ const workExperience = [
 
 const Experience = () => {
   return (
-    <div className="p-6 max-w-4xl mx-auto">
+    <div className="px-4 py-6 max-w-4xl mx-auto overflow-hidden">
       <h2 className="text-2xl font-bold mb-6 text-center" data-aos="fade-up">💼 Work Experience</h2>
       <div className="space-y-6">
         {workExperience.map((job, idx) => (
           <div
             key={idx}
-            className="border-l-4 border-yellow-500 pl-4 py-4 shadow-md rounded-md bg-white dark:bg-gray-800"
+            className="border-l-4 border-yellow-500 pl-4 py-4 shadow-md rounded-md bg-white dark:bg-gray-800 break-words"
             data-aos="fade-left"
             data-aos-delay={idx * 200}
           >
