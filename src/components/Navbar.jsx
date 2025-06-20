@@ -40,7 +40,6 @@ const NavLinks = ({ setMenuOpen }) => {
   return (
     <>
       <Link to="/" onClick={handleClick} className="text-blue-500 font-medium hover:underline">Home</Link>
-      <Link to="/about" onClick={handleClick} className="text-blue-500 font-medium hover:underline">About</Link>
       <Link to="/projects" onClick={handleClick} className="text-blue-500 font-medium hover:underline">Projects</Link>
       <Link to="/skills" onClick={handleClick} className="text-blue-500 font-medium hover:underline">Skills</Link>
       <Link to="/resume" onClick={handleClick} className="text-blue-500 font-medium hover:underline">Resume</Link>
