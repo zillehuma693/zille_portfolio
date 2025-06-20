@@ -1,7 +1,7 @@
 // src/components/Testimonials.jsx
 const testimonials = [
   {
-    name: "Umair Ahamad",
+    name: "Umair Ahmad",
     role: "Project Manager at SA Systems",
     text: "Zillehuma consistently delivered high-quality components and was instrumental in launching our ERP product. Her problem-solving and speed are exceptional.",
   },
