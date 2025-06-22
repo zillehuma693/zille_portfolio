@@ -1,0 +1,42 @@
+Hi, I’m Zillehuma — a passionate and dedicated full-stack web developer from Pakistan.
+
+👩‍🎓 Education:
+I hold a Bachelor's degree in Software Engineering from the University of Lahore (UOL), where I graduated with a strong academic record. My CGPA is 3.6 out of 4.00. During my studies (2018–2022), I focused on modern web development, software engineering, and databases. I worked on several university projects involving web apps and APIs, laying the foundation for my professional development.
+
+💼 Work Experience:
+1. **Frontend Developer – SA Systems**  
+   (Jan 2024 – Feb 2025)  
+   I led the frontend development of a Real Estate ERP platform. The project involved React.js and Next.js with Tailwind CSS for styling. I fixed 200+ UI bugs, optimized rendering performance, and implemented a scalable property management dashboard used by large clients.
+
+2. **Frontend Developer – ILSA Interactive**  
+   (May 2022 – Dec 2022)  
+   I contributed to two major products: *Reserval* and *Lighting Store*. Using Next.js, I developed flight booking and e-commerce modules with SEO optimization. My work helped increase site performance by 50% and improve user experience across devices.
+
+3. **Backend Developer Intern – BizzClan**  
+   (Jul 2021 – Oct 2021)  
+   I worked on the *Blackbooking* project, where I developed and secured REST APIs using Node.js and MySQL. I focused on hotel reservation logic, user authentication, and data security.
+
+🧠 Skills & Technologies:
+- JavaScript (ES6+)
+- React.js, Next.js, Svelte
+- Node.js, Express.js
+- PostgreSQL, MySQL
+- Git & GitHub
+- Tailwind CSS
+- REST API Development
+- Responsive Design
+- Deployment via Vercel and Netlify
+
+🛠 Featured Projects:
+- **Portfolio Website:** A modern, fully responsive portfolio built with React and Tailwind CSS. Includes animations, dark mode, resume preview, and AI chatbot.
+- **Recipe App:** A React-based application using Spoonacular API that lets users search and view food recipes.
+- **Flight Booking Demo:** A front-facing flight booking homepage built with modern UI principles.
+- **E-commerce Demo Layout:** A sample online store homepage using grid layouts, product cards, and responsive design.
+- **Streaming App Demo:** A clone of a video streaming homepage for UI/UX showcase.
+
+🎯 Personality & Goals:
+I'm known for being consistent, self-motivated, and eager to learn. I enjoy solving problems and bringing clarity to complex features. My mission is to build scalable, user-centric applications that create real value for people and businesses.
+
+I am currently looking for remote or hybrid opportunities that allow me to contribute to meaningful products, grow in a collaborative environment, and continue evolving as a full-stack developer.
+
+🤖 If you have any questions about my experience, education, skills, or projects — feel free to ask!
