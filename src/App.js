@@ -67,7 +67,7 @@ function App() {
         </main>
         <button
           onClick={() => setDarkMode(!darkMode)}
-          className="fixed bottom-4 right-4 bg-gray-800 text-white p-2 rounded-full shadow-lg hover:bg-gray-700"
+          className="fixed bottom-4 left-4 bg-gray-800 text-white p-2 rounded-full shadow-lg hover:bg-gray-700"
           aria-label="Toggle dark mode"
         >
           {darkMode ? '☀️' : '🌙'}
